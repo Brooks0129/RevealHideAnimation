@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">RevealHideAnimation</string>
+    <string name="title_crossfade">Simple Crossfade</string>
+    <string name="title_card_flip">Card Flip</string>
+    <string name="title_screen_slide">Screen Slide</string>
+    <string name="title_zoom">Zoom</string>
+    <string name="title_layout_changes">Layout Changes</string>
+
+    <!-- Actions -->
+    <string name="action_toggle">Toggle indicator</string>
+    <string name="action_add_item">Add item</string>
+    <string name="action_remove_item">Remove item</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+
+    <!-- Messages -->
+    <string name="message_empty_layout_changes">Add an item above to get started.</string>
+    <string name="message_zoom_touch_expand">Touch a photo to expand it.</string>
+
+    <!-- Other strings -->
+    <string name="card_back_title">Angry Red Android</string>
+    <string name="card_back_description"><![CDATA[Lorem ipsum dolor sit]]></string>
+    <string name="lorem_ipsum">热爱曾是唯一的信仰\n
+        相互凝望让对方捆绑\n
+        在那时候简单的好傻\n
+        却又空前绝后快乐啊\n
+        直到现实狠狠推一把\n
+        跌到浑身是伤疤\n
+        你在欲望面前投降\n
+        我在伤痛后面成长\n
+        终于知道爱都有翅膀\n
+        怎么拥抱它终究要飞翔\n
+        漆黑空心也想被释放\n
+        奈何思念比恨更顽强\n
+        有个怀抱暖得像张床\n
+        有份善良微笑多晴朗\n
+        有一张唇美丽又疯狂\n
+        为何爱谁心都空荡荡\n
+        当我听说你跟他散场\n
+        狼狈回家带着伤\n
+        朋友都说那是惩罚\n
+        我的心却多么痛啊\n
+        虽然知道爱都有翅膀\n
+        因为太爱所以会原谅\n
+        漆黑空心也想被释放\n
+        奈何思念比恨更顽强\n
+        无法割舍就别怕感伤\n
+        我也嫌我对你太滚烫\n
+        深爱就像一种命一样\n
+        没有任何方法能阻挡\n
+        就算知道爱都有翅膀\n
+        还是愿意让你停靠在我肩膀\n
+        你也不用把我当作家\n
+        把我当成一棵树吧</string>
+</resources>
